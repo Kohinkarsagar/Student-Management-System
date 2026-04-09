@@ -1,6 +1,6 @@
 Student Management System
 
-Technologies: Java, Spring Boot, MySQL, Hibernate, HTML, CSS, JavaScript
+Technologies: Java, Spring Boot, MySQL, Hibernate, HTML, CSS
 
 Description:
 Developed a full-stack web application to manage student records with CRUD operations. Implemented backend using Spring Boot and database integration with MySQL.
